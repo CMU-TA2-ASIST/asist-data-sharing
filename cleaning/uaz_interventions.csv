@@ -1,0 +1,370 @@
+elapsed_time,global_time,team,trial,intervention_type,intervention_content,target
+0:04:02.789700,2022-06-14T22:40:50.000Z,TM000273,T000745,motivational,"Hi, Team. I am ToMCAT. I will assist you in this mission. Good luck and team up!",team
+0:07:11.789700,2022-06-14T22:43:59.000Z,TM000273,T000745,help_request_for_critical_victim,"Blue, it seems you need some help to rescue a critical victim. Ask your teammates for assistance.",individual
+0:07:20.789700,2022-06-14T22:44:08.000Z,TM000273,T000745,marker_block,"Blue, let your teammates know about the critical victim marker you recently placed.",individual
+0:07:20.789700,2022-06-14T22:44:08.000Z,TM000273,T000745,help_request_for_room_escape,"Green, it seems you need some help to exit this room. Ask your teammates for assistance.",individual
+0:07:30.789700,2022-06-14T22:44:18.000Z,TM000273,T000745,help_request_for_room_escape,"Green, it seems you need some help to exit this room. Ask your teammates for assistance.",individual
+0:07:41.789700,2022-06-14T22:44:29.000Z,TM000273,T000745,help_request_reply,"Green, it's been a while since you asked for help. Remind your teammates.",individual
+0:09:44.789700,2022-06-14T22:46:32.000Z,TM000273,T000745,marker_block,"Green, let your teammates know about the regular victim marker you recently placed.",individual
+0:09:46.789700,2022-06-14T22:46:34.000Z,TM000273,T000745,marker_block,"Green, let your teammates know about the regular victim marker you recently placed.",individual
+0:10:56.789700,2022-06-14T22:47:44.000Z,TM000273,T000745,help_request_reply,"Red, it's been a while since you asked for help. Remind your teammates.",individual
+0:14:12.789700,2022-06-14T22:51:00.000Z,TM000273,T000745,help_request_for_critical_victim,"Blue, it seems you need some help to rescue a critical victim. Ask your teammates for assistance.",individual
+0:14:15.789700,2022-06-14T22:51:03.000Z,TM000273,T000745,help_request_for_critical_victim,"Red, it seems you need some help to rescue a critical victim. Ask your teammates for assistance.",individual
+0:14:16.789700,2022-06-14T22:51:04.000Z,TM000273,T000745,marker_block,"Blue, let your teammates know about the critical victim marker you recently placed.",individual
+0:14:25.789700,2022-06-14T22:51:13.000Z,TM000273,T000745,help_request_for_critical_victim,"Red, it seems you need some help to rescue a critical victim. Ask your teammates for assistance.",individual
+0:14:27.789700,2022-06-14T22:51:15.000Z,TM000273,T000745,help_request_for_critical_victim,"Green, it seems you need some help to rescue a critical victim. Ask your teammates for assistance.",individual
+0:14:35.789700,2022-06-14T22:51:23.000Z,TM000273,T000745,help_request_for_critical_victim,"Red, it seems you need some help to rescue a critical victim. Ask your teammates for assistance.",individual
+0:15:01.789700,2022-06-14T22:51:49.000Z,TM000273,T000745,help_request_reply,"Green, it's been a while since you asked for help. Remind your teammates.",individual
+0:15:32.789700,2022-06-14T22:52:20.000Z,TM000273,T000745,help_request_reply,"Green, it's been a while since you asked for help. Remind your teammates.",individual
+0:15:46.789700,2022-06-14T22:52:34.000Z,TM000273,T000745,help_request_reply,"Green, it's been a while since you asked for help. Remind your teammates.",individual
+0:15:56.789700,2022-06-14T22:52:44.000Z,TM000273,T000745,help_request_reply,"Green, it's been a while since you asked for help. Remind your teammates.",individual
+0:16:06.789700,2022-06-14T22:52:54.000Z,TM000273,T000745,help_request_reply,"Green, it's been a while since you asked for help. Remind your teammates.",individual
+0:16:16.789700,2022-06-14T22:53:04.000Z,TM000273,T000745,help_request_reply,"Green, it's been a while since you asked for help. Remind your teammates.",individual
+0:16:26.789700,2022-06-14T22:53:14.000Z,TM000273,T000745,help_request_reply,"Green, it's been a while since you asked for help. Remind your teammates.",individual
+0:16:30.789700,2022-06-14T22:53:18.000Z,TM000273,T000745,marker_block,"Red, let your teammates know about the critical victim marker you recently placed.",individual
+0:16:49.789700,2022-06-14T22:53:37.000Z,TM000273,T000745,help_request_reply,"Green, it's been a while since you asked for help. Remind your teammates.",individual
+0:17:40.789700,2022-06-14T22:54:28.000Z,TM000273,T000745,help_request_reply,"Red, it's been a while since you asked for help. Remind your teammates.",individual
+0:05:31.946500,2022-05-31T22:50:01.000Z,TM000250,T000699,motivational,"Hi, Team. I am ToMCAT. I will assist you in this mission. Good luck and team up!",team
+0:06:11.946500,2022-05-31T22:50:41.000Z,TM000250,T000699,marker_block,"Green, let your teammates know about the regular victim marker you recently placed.",individual
+0:06:43.946500,2022-05-31T22:51:13.000Z,TM000250,T000699,marker_block,"Green, let your teammates know about the regular victim marker you recently placed.",individual
+0:06:54.946500,2022-05-31T22:51:24.000Z,TM000250,T000699,marker_block,"Green, let your teammates know about the regular victim marker you recently placed.",individual
+0:07:08.946500,2022-05-31T22:51:38.000Z,TM000250,T000699,help_request_for_critical_victim,"Blue, it seems you need some help to rescue a critical victim. Ask your teammates for assistance.",individual
+0:07:25.946500,2022-05-31T22:51:55.000Z,TM000250,T000699,marker_block,"Blue, let your teammates know about the critical victim marker you recently placed.",individual
+0:07:54.946500,2022-05-31T22:52:24.000Z,TM000250,T000699,help_request_for_critical_victim,"Red, it seems you need some help to rescue a critical victim. Ask your teammates for assistance.",individual
+0:07:55.946500,2022-05-31T22:52:25.000Z,TM000250,T000699,marker_block,"Red, let your teammates know about the critical victim marker you recently placed.",individual
+0:08:01.946500,2022-05-31T22:52:31.000Z,TM000250,T000699,marker_block,"Green, let your teammates know about the critical victim marker you recently placed.",individual
+0:08:03.946500,2022-05-31T22:52:33.000Z,TM000250,T000699,help_request_for_room_escape,"Green, it seems you need some help to exit this room. Ask your teammates for assistance.",individual
+0:08:04.946500,2022-05-31T22:52:34.000Z,TM000250,T000699,help_request_for_critical_victim,"Red, it seems you need some help to rescue a critical victim. Ask your teammates for assistance.",individual
+0:08:13.946500,2022-05-31T22:52:43.000Z,TM000250,T000699,help_request_for_room_escape,"Green, it seems you need some help to exit this room. Ask your teammates for assistance.",individual
+0:08:14.946500,2022-05-31T22:52:44.000Z,TM000250,T000699,help_request_for_critical_victim,"Red, it seems you need some help to rescue a critical victim. Ask your teammates for assistance.",individual
+0:08:15.946500,2022-05-31T22:52:45.000Z,TM000250,T000699,marker_block,"Blue, let your teammates know about the critical victim marker you recently placed.",individual
+0:08:24.946500,2022-05-31T22:52:54.000Z,TM000250,T000699,help_request_for_critical_victim,"Red, it seems you need some help to rescue a critical victim. Ask your teammates for assistance.",individual
+0:08:24.946500,2022-05-31T22:52:54.000Z,TM000250,T000699,help_request_reply,"Green, it's been a while since you asked for help. Remind your teammates.",individual
+0:08:34.946500,2022-05-31T22:53:04.000Z,TM000250,T000699,help_request_for_critical_victim,"Red, it seems you need some help to rescue a critical victim. Ask your teammates for assistance.",individual
+0:08:34.946500,2022-05-31T22:53:04.000Z,TM000250,T000699,help_request_reply,"Green, it's been a while since you asked for help. Remind your teammates.",individual
+0:08:44.946500,2022-05-31T22:53:14.000Z,TM000250,T000699,help_request_for_critical_victim,"Red, it seems you need some help to rescue a critical victim. Ask your teammates for assistance.",individual
+0:08:44.946500,2022-05-31T22:53:14.000Z,TM000250,T000699,help_request_reply,"Green, it's been a while since you asked for help. Remind your teammates.",individual
+0:08:54.946500,2022-05-31T22:53:24.000Z,TM000250,T000699,help_request_for_critical_victim,"Red, it seems you need some help to rescue a critical victim. Ask your teammates for assistance.",individual
+0:08:55.946500,2022-05-31T22:53:25.000Z,TM000250,T000699,help_request_for_critical_victim,"Green, it seems you need some help to rescue a critical victim. Ask your teammates for assistance.",individual
+0:08:56.946500,2022-05-31T22:53:26.000Z,TM000250,T000699,marker_block,"Green, let your teammates know about the regular victim marker you recently placed.",individual
+0:08:57.946500,2022-05-31T22:53:27.000Z,TM000250,T000699,marker_block,"Red, let your teammates know about the sos marker you recently placed.",individual
+0:09:09.946500,2022-05-31T22:53:39.000Z,TM000250,T000699,help_request_for_critical_victim,"Red, it seems you need some help to rescue a critical victim. Ask your teammates for assistance.",individual
+0:09:34.946500,2022-05-31T22:54:04.000Z,TM000250,T000699,marker_block,"Green, let your teammates know about the regular victim marker you recently placed.",individual
+0:09:39.946500,2022-05-31T22:54:09.000Z,TM000250,T000699,help_request_for_critical_victim,"Red, it seems you need some help to rescue a critical victim. Ask your teammates for assistance.",individual
+0:09:49.946500,2022-05-31T22:54:19.000Z,TM000250,T000699,help_request_for_critical_victim,"Red, it seems you need some help to rescue a critical victim. Ask your teammates for assistance.",individual
+0:11:13.946500,2022-05-31T22:55:43.000Z,TM000250,T000699,marker_block,"Blue, let your teammates know about the critical victim marker you recently placed.",individual
+0:11:25.946500,2022-05-31T22:55:55.000Z,TM000250,T000699,help_request_for_critical_victim,"Blue, it seems you need some help to rescue a critical victim. Ask your teammates for assistance.",individual
+0:12:14.946500,2022-05-31T22:56:44.000Z,TM000250,T000699,help_request_reply,"Green, it's been a while since you asked for help. Remind your teammates.",individual
+0:12:19.946500,2022-05-31T22:56:49.000Z,TM000250,T000699,help_request_for_critical_victim,"Red, it seems you need some help to rescue a critical victim. Ask your teammates for assistance.",individual
+0:12:24.946500,2022-05-31T22:56:54.000Z,TM000250,T000699,help_request_reply,"Green, it's been a while since you asked for help. Remind your teammates.",individual
+0:12:27.946500,2022-05-31T22:56:57.000Z,TM000250,T000699,help_request_for_room_escape,"Red, it seems you need some help to exit this room. Ask your teammates for assistance.",individual
+0:12:29.946500,2022-05-31T22:56:59.000Z,TM000250,T000699,help_request_for_critical_victim,"Red, it seems you need some help to rescue a critical victim. Ask your teammates for assistance.",individual
+0:12:34.946500,2022-05-31T22:57:04.000Z,TM000250,T000699,help_request_reply,"Green, it's been a while since you asked for help. Remind your teammates.",individual
+0:12:37.946500,2022-05-31T22:57:07.000Z,TM000250,T000699,help_request_for_room_escape,"Red, it seems you need some help to exit this room. Ask your teammates for assistance.",individual
+0:12:39.946500,2022-05-31T22:57:09.000Z,TM000250,T000699,help_request_for_critical_victim,"Red, it seems you need some help to rescue a critical victim. Ask your teammates for assistance.",individual
+0:12:40.946500,2022-05-31T22:57:10.000Z,TM000250,T000699,marker_block,"Green, let your teammates know about the sos marker you recently placed.",individual
+0:12:47.946500,2022-05-31T22:57:17.000Z,TM000250,T000699,help_request_for_room_escape,"Red, it seems you need some help to exit this room. Ask your teammates for assistance.",individual
+0:12:49.946500,2022-05-31T22:57:19.000Z,TM000250,T000699,help_request_for_critical_victim,"Red, it seems you need some help to rescue a critical victim. Ask your teammates for assistance.",individual
+0:12:57.946500,2022-05-31T22:57:27.000Z,TM000250,T000699,help_request_for_room_escape,"Red, it seems you need some help to exit this room. Ask your teammates for assistance.",individual
+0:12:59.946500,2022-05-31T22:57:29.000Z,TM000250,T000699,help_request_for_critical_victim,"Red, it seems you need some help to rescue a critical victim. Ask your teammates for assistance.",individual
+0:13:07.946500,2022-05-31T22:57:37.000Z,TM000250,T000699,help_request_for_room_escape,"Red, it seems you need some help to exit this room. Ask your teammates for assistance.",individual
+0:13:09.946500,2022-05-31T22:57:39.000Z,TM000250,T000699,help_request_for_critical_victim,"Red, it seems you need some help to rescue a critical victim. Ask your teammates for assistance.",individual
+0:15:03.946500,2022-05-31T22:59:33.000Z,TM000250,T000699,help_request_for_critical_victim,"Red, it seems you need some help to rescue a critical victim. Ask your teammates for assistance.",individual
+0:15:13.946500,2022-05-31T22:59:43.000Z,TM000250,T000699,help_request_for_critical_victim,"Red, it seems you need some help to rescue a critical victim. Ask your teammates for assistance.",individual
+0:15:22.946500,2022-05-31T22:59:52.000Z,TM000250,T000699,marker_block,"Red, let your teammates know about the critical victim marker you recently placed.",individual
+0:16:23.946500,2022-05-31T23:00:53.000Z,TM000250,T000699,marker_block,"Blue, let your teammates know about the regular victim marker you recently placed.",individual
+0:16:23.946500,2022-05-31T23:00:53.000Z,TM000250,T000699,help_request_for_critical_victim,"Green, it seems you need some help to rescue a critical victim. Ask your teammates for assistance.",individual
+0:16:25.946500,2022-05-31T23:00:55.000Z,TM000250,T000699,help_request_for_room_escape,"Green, it seems you need some help to exit this room. Ask your teammates for assistance.",individual
+0:16:40.946500,2022-05-31T23:01:10.000Z,TM000250,T000699,help_request_reply,"Green, it's been a while since you asked for help. Remind your teammates.",individual
+0:16:50.946500,2022-05-31T23:01:20.000Z,TM000250,T000699,help_request_reply,"Green, it's been a while since you asked for help. Remind your teammates.",individual
+0:17:00.946500,2022-05-31T23:01:30.000Z,TM000250,T000699,help_request_reply,"Green, it's been a while since you asked for help. Remind your teammates.",individual
+0:17:10.946500,2022-05-31T23:01:40.000Z,TM000250,T000699,help_request_reply,"Green, it's been a while since you asked for help. Remind your teammates.",individual
+0:17:20.946500,2022-05-31T23:01:50.000Z,TM000250,T000699,help_request_reply,"Green, it's been a while since you asked for help. Remind your teammates.",individual
+0:17:30.946500,2022-05-31T23:02:00.000Z,TM000250,T000699,help_request_reply,"Green, it's been a while since you asked for help. Remind your teammates.",individual
+0:17:38.946500,2022-05-31T23:02:08.000Z,TM000250,T000699,marker_block,"Green, let your teammates know about the sos marker you recently placed.",individual
+0:17:40.946500,2022-05-31T23:02:10.000Z,TM000250,T000699,help_request_reply,"Green, it's been a while since you asked for help. Remind your teammates.",individual
+0:04:03.715600,2022-06-09T02:12:28.000Z,TM000263,T000725,motivational,"Hi, Team. I am ToMCAT. I will assist you in this mission. Good luck and team up!",team
+0:04:23.715600,2022-06-09T02:12:48.000Z,TM000263,T000725,marker_block,"Green, let your teammates know about the regular victim marker you recently placed.",individual
+0:04:30.715600,2022-06-09T02:12:55.000Z,TM000263,T000725,marker_block,"Blue, let your teammates know about the regular victim marker you recently placed.",individual
+0:04:32.715600,2022-06-09T02:12:57.000Z,TM000263,T000725,marker_block,"Green, let your teammates know about the critical victim marker you recently placed.",individual
+0:04:53.715600,2022-06-09T02:13:18.000Z,TM000263,T000725,marker_block,"Green, let your teammates know about the critical victim marker you recently placed.",individual
+0:05:04.715600,2022-06-09T02:13:29.000Z,TM000263,T000725,marker_block,"Green, let your teammates know about the critical victim marker you recently placed.",individual
+0:05:28.715600,2022-06-09T02:13:53.000Z,TM000263,T000725,help_request_for_critical_victim,"Blue, it seems you need some help to rescue a critical victim. Ask your teammates for assistance.",individual
+0:05:39.715600,2022-06-09T02:14:04.000Z,TM000263,T000725,marker_block,"Green, let your teammates know about the critical victim marker you recently placed.",individual
+0:05:49.715600,2022-06-09T02:14:14.000Z,TM000263,T000725,help_request_for_critical_victim,"Green, it seems you need some help to rescue a critical victim. Ask your teammates for assistance.",individual
+0:05:51.715600,2022-06-09T02:14:16.000Z,TM000263,T000725,marker_block,"Blue, let your teammates know about the regular victim marker you recently placed.",individual
+0:06:06.715600,2022-06-09T02:14:31.000Z,TM000263,T000725,help_request_reply,"Green, it's been a while since you asked for help. Remind your teammates.",individual
+0:06:35.715600,2022-06-09T02:15:00.000Z,TM000263,T000725,marker_block,"Blue, let your teammates know about the critical victim marker you recently placed.",individual
+0:06:48.715600,2022-06-09T02:15:13.000Z,TM000263,T000725,marker_block,"Green, let your teammates know about the regular victim marker you recently placed.",individual
+0:06:51.715600,2022-06-09T02:15:16.000Z,TM000263,T000725,marker_block,"Blue, let your teammates know about the regular victim marker you recently placed.",individual
+0:06:58.715600,2022-06-09T02:15:23.000Z,TM000263,T000725,help_request_reply,"Red, it's been a while since you asked for help. Remind your teammates.",individual
+0:07:11.715600,2022-06-09T02:15:36.000Z,TM000263,T000725,help_request_for_room_escape,"Red, it seems you need some help to exit this room. Ask your teammates for assistance.",individual
+0:07:14.715600,2022-06-09T02:15:39.000Z,TM000263,T000725,help_request_for_critical_victim,"Red, it seems you need some help to rescue a critical victim. Ask your teammates for assistance.",individual
+0:07:21.715600,2022-06-09T02:15:46.000Z,TM000263,T000725,help_request_for_room_escape,"Red, it seems you need some help to exit this room. Ask your teammates for assistance.",individual
+0:07:26.715600,2022-06-09T02:15:51.000Z,TM000263,T000725,marker_block,"Blue, let your teammates know about the regular victim marker you recently placed.",individual
+0:07:31.715600,2022-06-09T02:15:56.000Z,TM000263,T000725,help_request_for_room_escape,"Red, it seems you need some help to exit this room. Ask your teammates for assistance.",individual
+0:07:40.715600,2022-06-09T02:16:05.000Z,TM000263,T000725,marker_block,"Green, let your teammates know about the rubble marker you recently placed.",individual
+0:07:41.715600,2022-06-09T02:16:06.000Z,TM000263,T000725,help_request_for_room_escape,"Red, it seems you need some help to exit this room. Ask your teammates for assistance.",individual
+0:08:08.715600,2022-06-09T02:16:33.000Z,TM000263,T000725,marker_block,"Blue, let your teammates know about the critical victim marker you recently placed.",individual
+0:08:44.715600,2022-06-09T02:17:09.000Z,TM000263,T000725,marker_block,"Green, let your teammates know about the critical victim marker you recently placed.",individual
+0:09:03.715600,2022-06-09T02:17:28.000Z,TM000263,T000725,marker_block,"Green, let your teammates know about the critical victim marker you recently placed.",individual
+0:09:25.715600,2022-06-09T02:17:50.000Z,TM000263,T000725,marker_block,"Blue, let your teammates know about the regular victim marker you recently placed.",individual
+0:10:43.715600,2022-06-09T02:19:08.000Z,TM000263,T000725,marker_block,"Red, let your teammates know about the critical victim marker you recently placed.",individual
+0:10:55.715600,2022-06-09T02:19:20.000Z,TM000263,T000725,marker_block,"Blue, let your teammates know about the regular victim marker you recently placed.",individual
+0:11:01.715600,2022-06-09T02:19:26.000Z,TM000263,T000725,marker_block,"Blue, let your teammates know about the regular victim marker you recently placed.",individual
+0:13:03.715600,2022-06-09T02:21:28.000Z,TM000263,T000725,help_request_for_room_escape,"Green, it seems you need some help to exit this room. Ask your teammates for assistance.",individual
+0:13:13.715600,2022-06-09T02:21:38.000Z,TM000263,T000725,help_request_for_room_escape,"Green, it seems you need some help to exit this room. Ask your teammates for assistance.",individual
+0:13:13.715600,2022-06-09T02:21:38.000Z,TM000263,T000725,help_request_reply,"Red, it's been a while since you asked for help. Remind your teammates.",individual
+0:14:40.715600,2022-06-09T02:23:05.000Z,TM000263,T000725,marker_block,"Green, let your teammates know about the regular victim marker you recently placed.",individual
+0:14:57.715600,2022-06-09T02:23:22.000Z,TM000263,T000725,marker_block,"Green, let your teammates know about the regular victim marker you recently placed.",individual
+0:15:14.715600,2022-06-09T02:23:39.000Z,TM000263,T000725,marker_block,"Blue, let your teammates know about the regular victim marker you recently placed.",individual
+0:17:14.715600,2022-06-09T02:25:39.000Z,TM000263,T000725,help_request_reply,"Blue, it's been a while since you asked for help. Remind your teammates.",individual
+0:17:28.715600,2022-06-09T02:25:53.000Z,TM000263,T000725,marker_block,"Blue, let your teammates know about the critical victim marker you recently placed.",individual
+0:18:16.715600,2022-06-09T02:26:41.000Z,TM000263,T000725,help_request_reply,"Red, it's been a while since you asked for help. Remind your teammates.",individual
+0:08:59.708200,2022-05-17T23:06:19.000Z,TM000236,T000672,marker_block,"Green, let your teammates know about the critical victim marker you recently placed.",individual
+0:09:39.708200,2022-05-17T23:06:59.000Z,TM000236,T000672,marker_block,"Red, let your teammates know about the critical victim marker you recently placed.",individual
+0:10:13.708200,2022-05-17T23:07:33.000Z,TM000236,T000672,help_request_for_critical_victim,"Red, it seems you need some help to rescue a critical victim. Ask your teammates for assistance.",individual
+0:10:18.708200,2022-05-17T23:07:38.000Z,TM000236,T000672,marker_block,"Red, let your teammates know about the critical victim marker you recently placed.",individual
+0:10:21.708200,2022-05-17T23:07:41.000Z,TM000236,T000672,help_request_for_room_escape,"Red, it seems you need some help to exit this room. Ask your teammates for assistance.",individual
+0:10:23.708200,2022-05-17T23:07:43.000Z,TM000236,T000672,help_request_for_critical_victim,"Red, it seems you need some help to rescue a critical victim. Ask your teammates for assistance.",individual
+0:10:31.708200,2022-05-17T23:07:51.000Z,TM000236,T000672,help_request_for_room_escape,"Red, it seems you need some help to exit this room. Ask your teammates for assistance.",individual
+0:10:32.708200,2022-05-17T23:07:52.000Z,TM000236,T000672,marker_block,"Green, let your teammates know about the regular victim marker you recently placed.",individual
+0:10:33.708200,2022-05-17T23:07:53.000Z,TM000236,T000672,help_request_for_critical_victim,"Red, it seems you need some help to rescue a critical victim. Ask your teammates for assistance.",individual
+0:10:41.708200,2022-05-17T23:08:01.000Z,TM000236,T000672,help_request_for_room_escape,"Red, it seems you need some help to exit this room. Ask your teammates for assistance.",individual
+0:10:43.708200,2022-05-17T23:08:03.000Z,TM000236,T000672,help_request_for_critical_victim,"Red, it seems you need some help to rescue a critical victim. Ask your teammates for assistance.",individual
+0:11:17.708200,2022-05-17T23:08:37.000Z,TM000236,T000672,help_request_for_room_escape,"Red, it seems you need some help to exit this room. Ask your teammates for assistance.",individual
+0:11:27.708200,2022-05-17T23:08:47.000Z,TM000236,T000672,help_request_for_room_escape,"Red, it seems you need some help to exit this room. Ask your teammates for assistance.",individual
+0:11:37.708200,2022-05-17T23:08:57.000Z,TM000236,T000672,help_request_for_room_escape,"Red, it seems you need some help to exit this room. Ask your teammates for assistance.",individual
+0:11:45.708200,2022-05-17T23:09:05.000Z,TM000236,T000672,help_request_reply,"Green, it's been a while since you asked for help. Remind your teammates.",individual
+0:12:36.708200,2022-05-17T23:09:56.000Z,TM000236,T000672,help_request_for_critical_victim,"Blue, it seems you need some help to rescue a critical victim. Ask your teammates for assistance.",individual
+0:12:46.708200,2022-05-17T23:10:06.000Z,TM000236,T000672,help_request_for_critical_victim,"Blue, it seems you need some help to rescue a critical victim. Ask your teammates for assistance.",individual
+0:12:56.708200,2022-05-17T23:10:16.000Z,TM000236,T000672,help_request_for_critical_victim,"Blue, it seems you need some help to rescue a critical victim. Ask your teammates for assistance.",individual
+0:13:01.708200,2022-05-17T23:10:21.000Z,TM000236,T000672,help_request_for_room_escape,"Green, it seems you need some help to exit this room. Ask your teammates for assistance.",individual
+0:13:03.708200,2022-05-17T23:10:23.000Z,TM000236,T000672,marker_block,"Blue, let your teammates know about the regular victim marker you recently placed.",individual
+0:13:15.708200,2022-05-17T23:10:35.000Z,TM000236,T000672,help_request_reply,"Green, it's been a while since you asked for help. Remind your teammates.",individual
+0:13:41.708200,2022-05-17T23:11:01.000Z,TM000236,T000672,help_request_reply,"Green, it's been a while since you asked for help. Remind your teammates.",individual
+0:13:44.708200,2022-05-17T23:11:04.000Z,TM000236,T000672,marker_block,"Green, let your teammates know about the sos marker you recently placed.",individual
+0:14:06.708200,2022-05-17T23:11:26.000Z,TM000236,T000672,marker_block,"Green, let your teammates know about the sos marker you recently placed.",individual
+0:14:49.708200,2022-05-17T23:12:09.000Z,TM000236,T000672,help_request_reply,"Green, it's been a while since you asked for help. Remind your teammates.",individual
+0:15:04.708200,2022-05-17T23:12:24.000Z,TM000236,T000672,marker_block,"Red, let your teammates know about the critical victim marker you recently placed.",individual
+0:16:15.708200,2022-05-17T23:13:35.000Z,TM000236,T000672,help_request_for_critical_victim,"Red, it seems you need some help to rescue a critical victim. Ask your teammates for assistance.",individual
+0:16:21.708200,2022-05-17T23:13:41.000Z,TM000236,T000672,help_request_for_room_escape,"Red, it seems you need some help to exit this room. Ask your teammates for assistance.",individual
+0:16:36.708200,2022-05-17T23:13:56.000Z,TM000236,T000672,help_request_reply,"Red, it's been a while since you asked for help. Remind your teammates.",individual
+0:16:46.708200,2022-05-17T23:14:06.000Z,TM000236,T000672,help_request_reply,"Red, it's been a while since you asked for help. Remind your teammates.",individual
+0:17:33.708200,2022-05-17T23:14:53.000Z,TM000236,T000672,marker_block,"Red, let your teammates know about the critical victim marker you recently placed.",individual
+0:18:12.708200,2022-05-17T23:15:32.000Z,TM000236,T000672,marker_block,"Green, let your teammates know about the regular victim marker you recently placed.",individual
+0:18:45.708200,2022-05-17T23:16:05.000Z,TM000236,T000672,help_request_reply,"Green, it's been a while since you asked for help. Remind your teammates.",individual
+0:19:01.708200,2022-05-17T23:16:21.000Z,TM000236,T000672,marker_block,"Red, let your teammates know about the critical victim marker you recently placed.",individual
+0:20:08.708200,2022-05-17T23:17:28.000Z,TM000236,T000672,marker_block,"Green, let your teammates know about the regular victim marker you recently placed.",individual
+0:20:45.708200,2022-05-17T23:18:05.000Z,TM000236,T000672,marker_block,"Red, let your teammates know about the critical victim marker you recently placed.",individual
+0:22:49.708200,2022-05-17T23:20:09.000Z,TM000236,T000672,marker_block,"Blue, let your teammates know about the regular victim marker you recently placed.",individual
+0:13:31.622400,2022-06-14T23:13:32.000Z,TM000273,T000746,help_request_for_critical_victim,"Red, it seems you need some help to rescue a critical victim. Ask your teammates for assistance.",individual
+0:13:32.622400,2022-06-14T23:13:33.000Z,TM000273,T000746,help_request_reply,"Blue, it's been a while since you asked for help. Remind your teammates.",individual
+0:13:56.622400,2022-06-14T23:13:57.000Z,TM000273,T000746,help_request_reply,"Blue, it's been a while since you asked for help. Remind your teammates.",individual
+0:14:07.622400,2022-06-14T23:14:08.000Z,TM000273,T000746,help_request_reply,"Blue, it's been a while since you asked for help. Remind your teammates.",individual
+0:14:30.622400,2022-06-14T23:14:31.000Z,TM000273,T000746,help_request_reply,"Blue, it's been a while since you asked for help. Remind your teammates.",individual
+0:16:10.622400,2022-06-14T23:16:11.000Z,TM000273,T000746,marker_block,"Blue, let your teammates know about the regular victim marker you recently placed.",individual
+0:17:00.622400,2022-06-14T23:17:01.000Z,TM000273,T000746,marker_block,"Red, let your teammates know about the critical victim marker you recently placed.",individual
+0:18:02.622400,2022-06-14T23:18:03.000Z,TM000273,T000746,marker_block,"Red, let your teammates know about the critical victim marker you recently placed.",individual
+0:18:26.622400,2022-06-14T23:18:27.000Z,TM000273,T000746,marker_block,"Red, let your teammates know about the critical victim marker you recently placed.",individual
+0:18:34.622400,2022-06-14T23:18:35.000Z,TM000273,T000746,marker_block,"Green, let your teammates know about the regular victim marker you recently placed.",individual
+0:19:19.622400,2022-06-14T23:19:20.000Z,TM000273,T000746,marker_block,"Red, let your teammates know about the critical victim marker you recently placed.",individual
+0:21:06.622400,2022-06-14T23:21:07.000Z,TM000273,T000746,help_request_for_critical_victim,"Blue, it seems you need some help to rescue a critical victim. Ask your teammates for assistance.",individual
+0:21:16.622400,2022-06-14T23:21:17.000Z,TM000273,T000746,help_request_for_critical_victim,"Blue, it seems you need some help to rescue a critical victim. Ask your teammates for assistance.",individual
+0:21:26.622400,2022-06-14T23:21:27.000Z,TM000273,T000746,help_request_for_critical_victim,"Blue, it seems you need some help to rescue a critical victim. Ask your teammates for assistance.",individual
+0:21:36.622400,2022-06-14T23:21:37.000Z,TM000273,T000746,help_request_for_critical_victim,"Blue, it seems you need some help to rescue a critical victim. Ask your teammates for assistance.",individual
+0:21:52.622400,2022-06-14T23:21:53.000Z,TM000273,T000746,marker_block,"Green, let your teammates know about the regular victim marker you recently placed.",individual
+0:25:13.622400,2022-06-14T23:25:14.000Z,TM000273,T000746,help_request_for_critical_victim,"Red, it seems you need some help to rescue a critical victim. Ask your teammates for assistance.",individual
+0:25:15.622400,2022-06-14T23:25:16.000Z,TM000273,T000746,help_request_for_room_escape,"Red, it seems you need some help to exit this room. Ask your teammates for assistance.",individual
+0:04:16.937500,2022-06-07T02:06:39.000Z,TM000260,T000719,motivational,"Hi, Team. I am ToMCAT. I will assist you in this mission. Good luck and team up!",team
+0:05:04.937500,2022-06-07T02:07:27.000Z,TM000260,T000719,marker_block,"Green, let your teammates know about the critical victim marker you recently placed.",individual
+0:05:12.937500,2022-06-07T02:07:35.000Z,TM000260,T000719,marker_block,"Blue, let your teammates know about the critical victim marker you recently placed.",individual
+0:05:13.937500,2022-06-07T02:07:36.000Z,TM000260,T000719,marker_block,"Green, let your teammates know about the regular victim marker you recently placed.",individual
+0:05:55.937500,2022-06-07T02:08:18.000Z,TM000260,T000719,marker_block,"Green, let your teammates know about the regular victim marker you recently placed.",individual
+0:06:47.937500,2022-06-07T02:09:10.000Z,TM000260,T000719,marker_block,"Green, let your teammates know about the critical victim marker you recently placed.",individual
+0:06:58.937500,2022-06-07T02:09:21.000Z,TM000260,T000719,marker_block,"Green, let your teammates know about the critical victim marker you recently placed.",individual
+0:08:42.937500,2022-06-07T02:11:05.000Z,TM000260,T000719,marker_block,"Blue, let your teammates know about the critical victim marker you recently placed.",individual
+0:12:58.937500,2022-06-07T02:15:21.000Z,TM000260,T000719,marker_block,"Green, let your teammates know about the critical victim marker you recently placed.",individual
+0:13:40.937500,2022-06-07T02:16:03.000Z,TM000260,T000719,marker_block,"Green, let your teammates know about the regular victim marker you recently placed.",individual
+0:14:25.937500,2022-06-07T02:16:48.000Z,TM000260,T000719,marker_block,"Green, let your teammates know about the regular victim marker you recently placed.",individual
+0:17:54.937500,2022-06-07T02:20:17.000Z,TM000260,T000719,marker_block,"Blue, let your teammates know about the regular victim marker you recently placed.",individual
+0:18:14.937500,2022-06-07T02:20:37.000Z,TM000260,T000719,marker_block,"Blue, let your teammates know about the critical victim marker you recently placed.",individual
+0:18:38.937500,2022-06-07T02:21:01.000Z,TM000260,T000719,marker_block,"Green, let your teammates know about the regular victim marker you recently placed.",individual
+0:18:50.937500,2022-06-07T02:21:13.000Z,TM000260,T000719,marker_block,"Green, let your teammates know about the regular victim marker you recently placed.",individual
+0:19:05.937500,2022-06-07T02:21:28.000Z,TM000260,T000719,marker_block,"Red, let your teammates know about the critical victim marker you recently placed.",individual
+0:03:41.679800,2022-06-13T22:34:32.000Z,TM000270,T000739,motivational,"Hi, Team. I am ToMCAT. I will assist you in this mission. Good luck and team up!",team
+0:04:06.679800,2022-06-13T22:34:57.000Z,TM000270,T000739,marker_block,"Green, let your teammates know about the critical victim marker you recently placed.",individual
+0:04:14.679800,2022-06-13T22:35:05.000Z,TM000270,T000739,marker_block,"Red, let your teammates know about the rubble marker you recently placed.",individual
+0:04:30.679800,2022-06-13T22:35:21.000Z,TM000270,T000739,marker_block,"Green, let your teammates know about the critical victim marker you recently placed.",individual
+0:04:34.679800,2022-06-13T22:35:25.000Z,TM000270,T000739,help_request_for_critical_victim,"Blue, it seems you need some help to rescue a critical victim. Ask your teammates for assistance.",individual
+0:04:44.679800,2022-06-13T22:35:35.000Z,TM000270,T000739,help_request_for_critical_victim,"Blue, it seems you need some help to rescue a critical victim. Ask your teammates for assistance.",individual
+0:05:27.679800,2022-06-13T22:36:18.000Z,TM000270,T000739,marker_block,"Blue, let your teammates know about the regular victim marker you recently placed.",individual
+0:05:47.679800,2022-06-13T22:36:38.000Z,TM000270,T000739,marker_block,"Red, let your teammates know about the critical victim marker you recently placed.",individual
+0:06:29.679800,2022-06-13T22:37:20.000Z,TM000270,T000739,marker_block,"Green, let your teammates know about the regular victim marker you recently placed.",individual
+0:07:32.679800,2022-06-13T22:38:23.000Z,TM000270,T000739,marker_block,"Green, let your teammates know about the critical victim marker you recently placed.",individual
+0:07:39.679800,2022-06-13T22:38:30.000Z,TM000270,T000739,marker_block,"Red, let your teammates know about the critical victim marker you recently placed.",individual
+0:07:39.679800,2022-06-13T22:38:30.000Z,TM000270,T000739,marker_block,"Green, let your teammates know about the regular victim marker you recently placed.",individual
+0:09:23.679800,2022-06-13T22:40:14.000Z,TM000270,T000739,marker_block,"Red, let your teammates know about the critical victim marker you recently placed.",individual
+0:11:30.679800,2022-06-13T22:42:21.000Z,TM000270,T000739,help_request_for_critical_victim,"Green, it seems you need some help to rescue a critical victim. Ask your teammates for assistance.",individual
+0:11:31.679800,2022-06-13T22:42:22.000Z,TM000270,T000739,help_request_for_room_escape,"Green, it seems you need some help to exit this room. Ask your teammates for assistance.",individual
+0:11:40.679800,2022-06-13T22:42:31.000Z,TM000270,T000739,help_request_for_critical_victim,"Green, it seems you need some help to rescue a critical victim. Ask your teammates for assistance.",individual
+0:11:41.679800,2022-06-13T22:42:32.000Z,TM000270,T000739,help_request_for_room_escape,"Green, it seems you need some help to exit this room. Ask your teammates for assistance.",individual
+0:11:50.679800,2022-06-13T22:42:41.000Z,TM000270,T000739,help_request_for_critical_victim,"Green, it seems you need some help to rescue a critical victim. Ask your teammates for assistance.",individual
+0:11:51.679800,2022-06-13T22:42:42.000Z,TM000270,T000739,help_request_for_room_escape,"Green, it seems you need some help to exit this room. Ask your teammates for assistance.",individual
+0:11:53.679800,2022-06-13T22:42:44.000Z,TM000270,T000739,help_request_reply,"Red, it's been a while since you asked for help. Remind your teammates.",individual
+0:12:00.679800,2022-06-13T22:42:51.000Z,TM000270,T000739,help_request_for_critical_victim,"Green, it seems you need some help to rescue a critical victim. Ask your teammates for assistance.",individual
+0:12:01.679800,2022-06-13T22:42:52.000Z,TM000270,T000739,help_request_for_room_escape,"Green, it seems you need some help to exit this room. Ask your teammates for assistance.",individual
+0:12:03.679800,2022-06-13T22:42:54.000Z,TM000270,T000739,help_request_reply,"Red, it's been a while since you asked for help. Remind your teammates.",individual
+0:12:23.679800,2022-06-13T22:43:14.000Z,TM000270,T000739,marker_block,"Green, let your teammates know about the critical victim marker you recently placed.",individual
+0:12:34.679800,2022-06-13T22:43:25.000Z,TM000270,T000739,marker_block,"Green, let your teammates know about the critical victim marker you recently placed.",individual
+0:12:50.679800,2022-06-13T22:43:41.000Z,TM000270,T000739,marker_block,"Green, let your teammates know about the regular victim marker you recently placed.",individual
+0:12:54.679800,2022-06-13T22:43:45.000Z,TM000270,T000739,marker_block,"Green, let your teammates know about the regular victim marker you recently placed.",individual
+0:13:31.679800,2022-06-13T22:44:22.000Z,TM000270,T000739,marker_block,"Green, let your teammates know about the regular victim marker you recently placed.",individual
+0:14:53.679800,2022-06-13T22:45:44.000Z,TM000270,T000739,marker_block,"Green, let your teammates know about the critical victim marker you recently placed.",individual
+0:15:10.679800,2022-06-13T22:46:01.000Z,TM000270,T000739,marker_block,"Red, let your teammates know about the critical victim marker you recently placed.",individual
+0:17:53.679800,2022-06-13T22:48:44.000Z,TM000270,T000739,marker_block,"Green, let your teammates know about the critical victim marker you recently placed.",individual
+0:18:04.679800,2022-06-13T22:48:55.000Z,TM000270,T000739,help_request_for_critical_victim,"Green, it seems you need some help to rescue a critical victim. Ask your teammates for assistance.",individual
+0:18:05.679800,2022-06-13T22:48:56.000Z,TM000270,T000739,help_request_for_room_escape,"Green, it seems you need some help to exit this room. Ask your teammates for assistance.",individual
+0:18:14.679800,2022-06-13T22:49:05.000Z,TM000270,T000739,help_request_for_critical_victim,"Green, it seems you need some help to rescue a critical victim. Ask your teammates for assistance.",individual
+0:18:15.679800,2022-06-13T22:49:06.000Z,TM000270,T000739,help_request_for_room_escape,"Green, it seems you need some help to exit this room. Ask your teammates for assistance.",individual
+0:11:15.183200,2022-06-09T02:45:28.000Z,TM000263,T000726,marker_block,"Green, let your teammates know about the regular victim marker you recently placed.",individual
+0:11:25.183200,2022-06-09T02:45:38.000Z,TM000263,T000726,marker_block,"Green, let your teammates know about the critical victim marker you recently placed.",individual
+0:11:33.183200,2022-06-09T02:45:46.000Z,TM000263,T000726,marker_block,"Green, let your teammates know about the critical victim marker you recently placed.",individual
+0:11:44.183200,2022-06-09T02:45:57.000Z,TM000263,T000726,marker_block,"Green, let your teammates know about the critical victim marker you recently placed.",individual
+0:11:54.183200,2022-06-09T02:46:07.000Z,TM000263,T000726,marker_block,"Green, let your teammates know about the regular victim marker you recently placed.",individual
+0:12:25.183200,2022-06-09T02:46:38.000Z,TM000263,T000726,marker_block,"Red, let your teammates know about the critical victim marker you recently placed.",individual
+0:12:40.183200,2022-06-09T02:46:53.000Z,TM000263,T000726,marker_block,"Green, let your teammates know about the critical victim marker you recently placed.",individual
+0:12:54.183200,2022-06-09T02:47:07.000Z,TM000263,T000726,marker_block,"Green, let your teammates know about the critical victim marker you recently placed.",individual
+0:13:41.183200,2022-06-09T02:47:54.000Z,TM000263,T000726,marker_block,"Red, let your teammates know about the critical victim marker you recently placed.",individual
+0:14:04.183200,2022-06-09T02:48:17.000Z,TM000263,T000726,marker_block,"Blue, let your teammates know about the critical victim marker you recently placed.",individual
+0:14:33.183200,2022-06-09T02:48:46.000Z,TM000263,T000726,help_request_reply,"Red, it's been a while since you asked for help. Remind your teammates.",individual
+0:14:49.183200,2022-06-09T02:49:02.000Z,TM000263,T000726,marker_block,"Red, let your teammates know about the critical victim marker you recently placed.",individual
+0:15:26.183200,2022-06-09T02:49:39.000Z,TM000263,T000726,marker_block,"Red, let your teammates know about the critical victim marker you recently placed.",individual
+0:16:05.183200,2022-06-09T02:50:18.000Z,TM000263,T000726,marker_block,"Green, let your teammates know about the regular victim marker you recently placed.",individual
+0:16:12.183200,2022-06-09T02:50:25.000Z,TM000263,T000726,marker_block,"Green, let your teammates know about the critical victim marker you recently placed.",individual
+0:16:35.183200,2022-06-09T02:50:48.000Z,TM000263,T000726,marker_block,"Blue, let your teammates know about the critical victim marker you recently placed.",individual
+0:17:22.183200,2022-06-09T02:51:35.000Z,TM000263,T000726,marker_block,"Green, let your teammates know about the regular victim marker you recently placed.",individual
+0:17:24.183200,2022-06-09T02:51:37.000Z,TM000263,T000726,marker_block,"Green, let your teammates know about the regular victim marker you recently placed.",individual
+0:17:27.183200,2022-06-09T02:51:40.000Z,TM000263,T000726,marker_block,"Green, let your teammates know about the regular victim marker you recently placed.",individual
+0:17:30.183200,2022-06-09T02:51:43.000Z,TM000263,T000726,marker_block,"Green, let your teammates know about the regular victim marker you recently placed.",individual
+0:18:59.183200,2022-06-09T02:53:12.000Z,TM000263,T000726,marker_block,"Green, let your teammates know about the regular victim marker you recently placed.",individual
+0:19:08.183200,2022-06-09T02:53:21.000Z,TM000263,T000726,marker_block,"Green, let your teammates know about the critical victim marker you recently placed.",individual
+0:19:15.183200,2022-06-09T02:53:28.000Z,TM000263,T000726,marker_block,"Green, let your teammates know about the critical victim marker you recently placed.",individual
+0:19:34.183200,2022-06-09T02:53:47.000Z,TM000263,T000726,marker_block,"Blue, let your teammates know about the regular victim marker you recently placed.",individual
+0:19:58.183200,2022-06-09T02:54:11.000Z,TM000263,T000726,marker_block,"Green, let your teammates know about the critical victim marker you recently placed.",individual
+0:20:01.183200,2022-06-09T02:54:14.000Z,TM000263,T000726,marker_block,"Green, let your teammates know about the critical victim marker you recently placed.",individual
+0:20:16.183200,2022-06-09T02:54:29.000Z,TM000263,T000726,marker_block,"Green, let your teammates know about the regular victim marker you recently placed.",individual
+0:21:25.183200,2022-06-09T02:55:38.000Z,TM000263,T000726,help_request_for_room_escape,"Green, it seems you need some help to exit this room. Ask your teammates for assistance.",individual
+0:22:13.183200,2022-06-09T02:56:26.000Z,TM000263,T000726,marker_block,"Red, let your teammates know about the critical victim marker you recently placed.",individual
+0:22:14.183200,2022-06-09T02:56:27.000Z,TM000263,T000726,marker_block,"Blue, let your teammates know about the critical victim marker you recently placed.",individual
+0:23:11.183200,2022-06-09T02:57:24.000Z,TM000263,T000726,marker_block,"Blue, let your teammates know about the regular victim marker you recently placed.",individual
+0:23:56.183200,2022-06-09T02:58:09.000Z,TM000263,T000726,marker_block,"Red, let your teammates know about the critical victim marker you recently placed.",individual
+0:24:04.183200,2022-06-09T02:58:17.000Z,TM000263,T000726,help_request_for_critical_victim,"Blue, it seems you need some help to rescue a critical victim. Ask your teammates for assistance.",individual
+0:24:30.183200,2022-06-09T02:58:43.000Z,TM000263,T000726,marker_block,"Red, let your teammates know about the critical victim marker you recently placed.",individual
+0:24:56.183200,2022-06-09T02:59:09.000Z,TM000263,T000726,marker_block,"Red, let your teammates know about the critical victim marker you recently placed.",individual
+0:08:29.071300,2022-06-07T02:37:06.000Z,TM000260,T000720,marker_block,"Green, let your teammates know about the critical victim marker you recently placed.",individual
+0:08:39.071300,2022-06-07T02:37:16.000Z,TM000260,T000720,marker_block,"Green, let your teammates know about the critical victim marker you recently placed.",individual
+0:08:48.071300,2022-06-07T02:37:25.000Z,TM000260,T000720,marker_block,"Green, let your teammates know about the regular victim marker you recently placed.",individual
+0:09:08.071300,2022-06-07T02:37:45.000Z,TM000260,T000720,marker_block,"Green, let your teammates know about the critical victim marker you recently placed.",individual
+0:09:19.071300,2022-06-07T02:37:56.000Z,TM000260,T000720,marker_block,"Red, let your teammates know about the critical victim marker you recently placed.",individual
+0:09:22.071300,2022-06-07T02:37:59.000Z,TM000260,T000720,marker_block,"Green, let your teammates know about the regular victim marker you recently placed.",individual
+0:09:28.071300,2022-06-07T02:38:05.000Z,TM000260,T000720,marker_block,"Green, let your teammates know about the critical victim marker you recently placed.",individual
+0:09:37.071300,2022-06-07T02:38:14.000Z,TM000260,T000720,marker_block,"Blue, let your teammates know about the critical victim marker you recently placed.",individual
+0:09:45.071300,2022-06-07T02:38:22.000Z,TM000260,T000720,marker_block,"Green, let your teammates know about the critical victim marker you recently placed.",individual
+0:09:52.071300,2022-06-07T02:38:29.000Z,TM000260,T000720,marker_block,"Red, let your teammates know about the critical victim marker you recently placed.",individual
+0:09:56.071300,2022-06-07T02:38:33.000Z,TM000260,T000720,marker_block,"Green, let your teammates know about the critical victim marker you recently placed.",individual
+0:10:54.071300,2022-06-07T02:39:31.000Z,TM000260,T000720,marker_block,"Red, let your teammates know about the critical victim marker you recently placed.",individual
+0:11:24.071300,2022-06-07T02:40:01.000Z,TM000260,T000720,marker_block,"Red, let your teammates know about the critical victim marker you recently placed.",individual
+0:12:00.071300,2022-06-07T02:40:37.000Z,TM000260,T000720,marker_block,"Red, let your teammates know about the critical victim marker you recently placed.",individual
+0:12:08.071300,2022-06-07T02:40:45.000Z,TM000260,T000720,marker_block,"Red, let your teammates know about the critical victim marker you recently placed.",individual
+0:12:59.071300,2022-06-07T02:41:36.000Z,TM000260,T000720,marker_block,"Red, let your teammates know about the critical victim marker you recently placed.",individual
+0:13:45.071300,2022-06-07T02:42:22.000Z,TM000260,T000720,marker_block,"Red, let your teammates know about the critical victim marker you recently placed.",individual
+0:15:07.071300,2022-06-07T02:43:44.000Z,TM000260,T000720,marker_block,"Green, let your teammates know about the critical victim marker you recently placed.",individual
+0:15:17.071300,2022-06-07T02:43:54.000Z,TM000260,T000720,marker_block,"Green, let your teammates know about the regular victim marker you recently placed.",individual
+0:16:53.071300,2022-06-07T02:45:30.000Z,TM000260,T000720,help_request_for_room_escape,"Green, it seems you need some help to exit this room. Ask your teammates for assistance.",individual
+0:17:01.071300,2022-06-07T02:45:38.000Z,TM000260,T000720,help_request_reply,"Red, it's been a while since you asked for help. Remind your teammates.",individual
+0:17:03.071300,2022-06-07T02:45:40.000Z,TM000260,T000720,help_request_for_room_escape,"Green, it seems you need some help to exit this room. Ask your teammates for assistance.",individual
+0:17:11.071300,2022-06-07T02:45:48.000Z,TM000260,T000720,help_request_reply,"Red, it's been a while since you asked for help. Remind your teammates.",individual
+0:17:13.071300,2022-06-07T02:45:50.000Z,TM000260,T000720,help_request_for_room_escape,"Green, it seems you need some help to exit this room. Ask your teammates for assistance.",individual
+0:17:24.071300,2022-06-07T02:46:01.000Z,TM000260,T000720,help_request_reply,"Red, it's been a while since you asked for help. Remind your teammates.",individual
+0:17:38.071300,2022-06-07T02:46:15.000Z,TM000260,T000720,marker_block,"Red, let your teammates know about the critical victim marker you recently placed.",individual
+0:18:10.071300,2022-06-07T02:46:47.000Z,TM000260,T000720,marker_block,"Green, let your teammates know about the regular victim marker you recently placed.",individual
+0:18:29.071300,2022-06-07T02:47:06.000Z,TM000260,T000720,marker_block,"Green, let your teammates know about the critical victim marker you recently placed.",individual
+0:18:32.071300,2022-06-07T02:47:09.000Z,TM000260,T000720,marker_block,"Green, let your teammates know about the critical victim marker you recently placed.",individual
+0:19:02.071300,2022-06-07T02:47:39.000Z,TM000260,T000720,marker_block,"Green, let your teammates know about the regular victim marker you recently placed.",individual
+0:19:11.071300,2022-06-07T02:47:48.000Z,TM000260,T000720,marker_block,"Green, let your teammates know about the critical victim marker you recently placed.",individual
+0:19:17.071300,2022-06-07T02:47:54.000Z,TM000260,T000720,marker_block,"Green, let your teammates know about the critical victim marker you recently placed.",individual
+0:19:29.071300,2022-06-07T02:48:06.000Z,TM000260,T000720,marker_block,"Green, let your teammates know about the critical victim marker you recently placed.",individual
+0:19:55.071300,2022-06-07T02:48:32.000Z,TM000260,T000720,help_request_for_critical_victim,"Blue, it seems you need some help to rescue a critical victim. Ask your teammates for assistance.",individual
+0:20:02.071300,2022-06-07T02:48:39.000Z,TM000260,T000720,marker_block,"Red, let your teammates know about the critical victim marker you recently placed.",individual
+0:20:19.071300,2022-06-07T02:48:56.000Z,TM000260,T000720,marker_block,"Red, let your teammates know about the critical victim marker you recently placed.",individual
+0:21:47.071300,2022-06-07T02:50:24.000Z,TM000260,T000720,marker_block,"Blue, let your teammates know about the critical victim marker you recently placed.",individual
+0:10:28.739200,2022-05-31T23:23:32.000Z,TM000250,T000700,marker_block,"Red, let your teammates know about the rubble marker you recently placed.",individual
+0:10:47.739200,2022-05-31T23:23:51.000Z,TM000250,T000700,marker_block,"Green, let your teammates know about the critical victim marker you recently placed.",individual
+0:11:05.739200,2022-05-31T23:24:09.000Z,TM000250,T000700,marker_block,"Red, let your teammates know about the critical victim marker you recently placed.",individual
+0:11:08.739200,2022-05-31T23:24:12.000Z,TM000250,T000700,marker_block,"Green, let your teammates know about the regular victim marker you recently placed.",individual
+0:12:26.739200,2022-05-31T23:25:30.000Z,TM000250,T000700,marker_block,"Green, let your teammates know about the regular victim marker you recently placed.",individual
+0:15:02.739200,2022-05-31T23:28:06.000Z,TM000250,T000700,help_request_for_critical_victim,"Blue, it seems you need some help to rescue a critical victim. Ask your teammates for assistance.",individual
+0:15:34.739200,2022-05-31T23:28:38.000Z,TM000250,T000700,marker_block,"Blue, let your teammates know about the regular victim marker you recently placed.",individual
+0:15:58.739200,2022-05-31T23:29:02.000Z,TM000250,T000700,marker_block,"Red, let your teammates know about the rubble marker you recently placed.",individual
+0:16:18.739200,2022-05-31T23:29:22.000Z,TM000250,T000700,marker_block,"Green, let your teammates know about the critical victim marker you recently placed.",individual
+0:16:33.739200,2022-05-31T23:29:37.000Z,TM000250,T000700,help_request_for_critical_victim,"Blue, it seems you need some help to rescue a critical victim. Ask your teammates for assistance.",individual
+0:16:45.739200,2022-05-31T23:29:49.000Z,TM000250,T000700,marker_block,"Green, let your teammates know about the regular victim marker you recently placed.",individual
+0:21:35.739200,2022-05-31T23:34:39.000Z,TM000250,T000700,marker_block,"Blue, let your teammates know about the critical victim marker you recently placed.",individual
+0:22:04.739200,2022-05-31T23:35:08.000Z,TM000250,T000700,marker_block,"Green, let your teammates know about the critical victim marker you recently placed.",individual
+0:06:24.768700,2022-05-17T22:36:28.000Z,TM000236,T000671,motivational,"Hi, Team. I am ToMCAT. I will assist you in this mission. Good luck and team up!",team
+0:07:06.768700,2022-05-17T22:37:10.000Z,TM000236,T000671,marker_block,"Green, let your teammates know about the critical victim marker you recently placed.",individual
+0:07:25.768700,2022-05-17T22:37:29.000Z,TM000236,T000671,marker_block,"Red, let your teammates know about the critical victim marker you recently placed.",individual
+0:08:31.768700,2022-05-17T22:38:35.000Z,TM000236,T000671,help_request_for_critical_victim,"Red, it seems you need some help to rescue a critical victim. Ask your teammates for assistance.",individual
+0:08:35.768700,2022-05-17T22:38:39.000Z,TM000236,T000671,marker_block,"Red, let your teammates know about the critical victim marker you recently placed.",individual
+0:08:48.768700,2022-05-17T22:38:52.000Z,TM000236,T000671,help_request_for_room_escape,"Red, it seems you need some help to exit this room. Ask your teammates for assistance.",individual
+0:09:08.768700,2022-05-17T22:39:12.000Z,TM000236,T000671,help_request_reply,"Red, it's been a while since you asked for help. Remind your teammates.",individual
+0:09:20.768700,2022-05-17T22:39:24.000Z,TM000236,T000671,help_request_reply,"Red, it's been a while since you asked for help. Remind your teammates.",individual
+0:11:04.768700,2022-05-17T22:41:08.000Z,TM000236,T000671,marker_block,"Blue, let your teammates know about the regular victim marker you recently placed.",individual
+0:11:16.768700,2022-05-17T22:41:20.000Z,TM000236,T000671,help_request_for_critical_victim,"Red, it seems you need some help to rescue a critical victim. Ask your teammates for assistance.",individual
+0:11:26.768700,2022-05-17T22:41:30.000Z,TM000236,T000671,help_request_for_critical_victim,"Red, it seems you need some help to rescue a critical victim. Ask your teammates for assistance.",individual
+0:11:41.768700,2022-05-17T22:41:45.000Z,TM000236,T000671,help_request_for_room_escape,"Red, it seems you need some help to exit this room. Ask your teammates for assistance.",individual
+0:13:12.768700,2022-05-17T22:43:16.000Z,TM000236,T000671,marker_block,"Green, let your teammates know about the regular victim marker you recently placed.",individual
+0:14:01.768700,2022-05-17T22:44:05.000Z,TM000236,T000671,help_request_reply,"Green, it's been a while since you asked for help. Remind your teammates.",individual
+0:14:25.768700,2022-05-17T22:44:29.000Z,TM000236,T000671,help_request_reply,"Green, it's been a while since you asked for help. Remind your teammates.",individual
+0:14:44.768700,2022-05-17T22:44:48.000Z,TM000236,T000671,marker_block,"Red, let your teammates know about the critical victim marker you recently placed.",individual
+0:17:38.768700,2022-05-17T22:47:42.000Z,TM000236,T000671,marker_block,"Green, let your teammates know about the critical victim marker you recently placed.",individual
+0:18:20.768700,2022-05-17T22:48:24.000Z,TM000236,T000671,help_request_for_critical_victim,"Red, it seems you need some help to rescue a critical victim. Ask your teammates for assistance.",individual
+0:18:25.768700,2022-05-17T22:48:29.000Z,TM000236,T000671,help_request_for_room_escape,"Red, it seems you need some help to exit this room. Ask your teammates for assistance.",individual
+0:18:30.768700,2022-05-17T22:48:34.000Z,TM000236,T000671,help_request_for_critical_victim,"Red, it seems you need some help to rescue a critical victim. Ask your teammates for assistance.",individual
+0:18:35.768700,2022-05-17T22:48:39.000Z,TM000236,T000671,help_request_for_room_escape,"Red, it seems you need some help to exit this room. Ask your teammates for assistance.",individual
+0:18:40.768700,2022-05-17T22:48:44.000Z,TM000236,T000671,help_request_for_critical_victim,"Red, it seems you need some help to rescue a critical victim. Ask your teammates for assistance.",individual
+0:18:44.768700,2022-05-17T22:48:48.000Z,TM000236,T000671,marker_block,"Blue, let your teammates know about the regular victim marker you recently placed.",individual
+0:18:45.768700,2022-05-17T22:48:49.000Z,TM000236,T000671,help_request_for_room_escape,"Red, it seems you need some help to exit this room. Ask your teammates for assistance.",individual
+0:18:50.768700,2022-05-17T22:48:54.000Z,TM000236,T000671,help_request_for_critical_victim,"Red, it seems you need some help to rescue a critical victim. Ask your teammates for assistance.",individual
+0:18:55.768700,2022-05-17T22:48:59.000Z,TM000236,T000671,help_request_for_room_escape,"Red, it seems you need some help to exit this room. Ask your teammates for assistance.",individual
+0:19:00.768700,2022-05-17T22:49:04.000Z,TM000236,T000671,marker_block,"Red, let your teammates know about the sos marker you recently placed.",individual
+0:19:00.768700,2022-05-17T22:49:04.000Z,TM000236,T000671,help_request_for_critical_victim,"Red, it seems you need some help to rescue a critical victim. Ask your teammates for assistance.",individual
+0:19:05.768700,2022-05-17T22:49:09.000Z,TM000236,T000671,help_request_for_room_escape,"Red, it seems you need some help to exit this room. Ask your teammates for assistance.",individual
+0:19:09.768700,2022-05-17T22:49:13.000Z,TM000236,T000671,marker_block,"Red, let your teammates know about the sos marker you recently placed.",individual
+0:19:10.768700,2022-05-17T22:49:14.000Z,TM000236,T000671,help_request_for_critical_victim,"Red, it seems you need some help to rescue a critical victim. Ask your teammates for assistance.",individual
+0:19:23.768700,2022-05-17T22:49:27.000Z,TM000236,T000671,help_request_reply,"Red, it's been a while since you asked for help. Remind your teammates.",individual
+0:19:39.768700,2022-05-17T22:49:43.000Z,TM000236,T000671,help_request_reply,"Red, it's been a while since you asked for help. Remind your teammates.",individual
+0:19:49.768700,2022-05-17T22:49:53.000Z,TM000236,T000671,help_request_reply,"Red, it's been a while since you asked for help. Remind your teammates.",individual
+0:19:59.768700,2022-05-17T22:50:03.000Z,TM000236,T000671,help_request_reply,"Red, it's been a while since you asked for help. Remind your teammates.",individual
+0:20:51.768700,2022-05-17T22:50:55.000Z,TM000236,T000671,marker_block,"Red, let your teammates know about the rubble marker you recently placed.",individual
+0:20:58.768700,2022-05-17T22:51:02.000Z,TM000236,T000671,help_request_reply,"Green, it's been a while since you asked for help. Remind your teammates.",individual
+0:11:41.786600,2022-06-13T23:03:52.000Z,TM000270,T000740,marker_block,"Green, let your teammates know about the critical victim marker you recently placed.",individual
+0:12:01.786600,2022-06-13T23:04:12.000Z,TM000270,T000740,marker_block,"Green, let your teammates know about the critical victim marker you recently placed.",individual
+0:12:13.786600,2022-06-13T23:04:24.000Z,TM000270,T000740,help_request_for_critical_victim,"Blue, it seems you need some help to rescue a critical victim. Ask your teammates for assistance.",individual
+0:12:37.786600,2022-06-13T23:04:48.000Z,TM000270,T000740,marker_block,"Green, let your teammates know about the regular victim marker you recently placed.",individual
+0:12:53.786600,2022-06-13T23:05:04.000Z,TM000270,T000740,marker_block,"Green, let your teammates know about the critical victim marker you recently placed.",individual
+0:13:14.786600,2022-06-13T23:05:25.000Z,TM000270,T000740,marker_block,"Green, let your teammates know about the critical victim marker you recently placed.",individual
+0:13:48.786600,2022-06-13T23:05:59.000Z,TM000270,T000740,marker_block,"Red, let your teammates know about the critical victim marker you recently placed.",individual
+0:14:58.786600,2022-06-13T23:07:09.000Z,TM000270,T000740,marker_block,"Red, let your teammates know about the rubble marker you recently placed.",individual
+0:16:13.786600,2022-06-13T23:08:24.000Z,TM000270,T000740,marker_block,"Green, let your teammates know about the critical victim marker you recently placed.",individual
+0:16:29.786600,2022-06-13T23:08:40.000Z,TM000270,T000740,marker_block,"Green, let your teammates know about the critical victim marker you recently placed.",individual
+0:16:49.786600,2022-06-13T23:09:00.000Z,TM000270,T000740,help_request_for_room_escape,"Red, it seems you need some help to exit this room. Ask your teammates for assistance.",individual
+0:16:49.786600,2022-06-13T23:09:00.000Z,TM000270,T000740,help_request_for_critical_victim,"Red, it seems you need some help to rescue a critical victim. Ask your teammates for assistance.",individual
+0:16:59.786600,2022-06-13T23:09:10.000Z,TM000270,T000740,help_request_for_critical_victim,"Red, it seems you need some help to rescue a critical victim. Ask your teammates for assistance.",individual
+0:17:18.786600,2022-06-13T23:09:29.000Z,TM000270,T000740,help_request_reply,"Red, it's been a while since you asked for help. Remind your teammates.",individual
+0:18:05.786600,2022-06-13T23:10:16.000Z,TM000270,T000740,marker_block,"Red, let your teammates know about the critical victim marker you recently placed.",individual
+0:19:47.786600,2022-06-13T23:11:58.000Z,TM000270,T000740,marker_block,"Green, let your teammates know about the critical victim marker you recently placed.",individual
+0:19:50.786600,2022-06-13T23:12:01.000Z,TM000270,T000740,marker_block,"Red, let your teammates know about the rubble marker you recently placed.",individual
+0:22:49.786600,2022-06-13T23:15:00.000Z,TM000270,T000740,marker_block,"Green, let your teammates know about the critical victim marker you recently placed.",individual
+0:25:03.786600,2022-06-13T23:17:14.000Z,TM000270,T000740,marker_block,"Green, let your teammates know about the critical victim marker you recently placed.",individual
