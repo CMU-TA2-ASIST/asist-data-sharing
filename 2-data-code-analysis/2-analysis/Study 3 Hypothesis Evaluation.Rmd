@@ -1,0 +1,203 @@
+---
+title: "analyze"
+output: html_document
+date: '2022-08-01'
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Load data
+
+```{r}
+df <- read.csv("~/Desktop/asist-data-sharing/2-data-code-analysis/0-data/parser-output/parser-output-cleaned/df.csv")
+
+library(tidyverse)
+
+aggdf <- df %>% group_by(team) %>% 
+  summarize(
+    score = sum(total_score),
+    critical_victims = sum(critic_victim),
+    effort = sum(process_effort_s),
+    skill = sum(process_skill_use_s),
+    strategy = sum(process_workload_burnt),
+    communication = last(comms_total_words),
+    communication_equity = last(comms_equity),
+    team_marking_m = mean(team_marking_skill_mean),
+    team_marking_s = mean(team_marking_skill_sd),
+    team_walking_m = mean(team_walking_skill_mean),
+    team_walking_s = mean(team_walking_skill_sd),
+    team_rmie_m = mean(team_rmie_mean),
+    team_rmie_s = mean(team_rmie_sd),
+    team_sbsod_m = mean(team_sbsod_mean),
+    team_sbsod_s = mean(team_sbsod_sd),
+    team_anxiety_m = mean(team_anxiety_mean),
+    team_anxiety_s = mean(team_anxiety_sd),
+    team_anger_m = mean(team_anger_mean),
+    team_anger_s = mean(team_anger_sd),
+    team_gaming_m = mean(team_gaming_experience_mean),
+    team_gaming_s = mean(team_gaming_experience_sd),
+    team_knowledge_m = mean(team_mission_knowledge_mean),
+    team_knowledge_s = mean(team_mission_knowledge_sd),
+    team_idle = sum(team_idle_time),
+    team_active = sum(concurrent_activity_time),
+    team_fdelay = sum(team_functional_delay)
+  )
+```
+
+# Hypothesis 1
+
+```{r}
+summary(lm(score ~ team_knowledge_m + team_knowledge_s + 
+                   team_marking_m + team_marking_s + team_walking_m + team_walking_s +
+                   team_gaming_m + team_gaming_s +
+                   team_anger_m + team_anger_s +
+                   team_anxiety_m + team_anxiety_s + 
+                   team_sbsod_m + team_sbsod_s,
+           data = aggdf))
+
+summary(lm(critical_victims ~ team_knowledge_m + team_knowledge_s + 
+                   team_marking_m + team_marking_s + team_walking_m + team_walking_s +
+                   team_gaming_m + team_gaming_s +
+                   team_anger_m + team_anger_s +
+                   team_anxiety_m + team_anxiety_s + 
+                   team_sbsod_m + team_sbsod_s,
+           data = aggdf))
+```
+
+
+# Hypothesis 2
+
+```{r}
+
+summary(lm(score ~ team_knowledge_m + team_knowledge_s + 
+                   team_marking_m + team_marking_s + team_walking_m + team_walking_s +
+                   team_gaming_m + team_gaming_s +
+                   team_anger_m + team_anger_s +
+                   team_anxiety_m + team_anxiety_s + 
+                   team_sbsod_m + team_sbsod_s,
+           data = aggdf))
+
+summary(lm(critical_victims ~ team_knowledge_m + team_knowledge_s + 
+                   team_marking_m + team_marking_s + team_walking_m + team_walking_s +
+                   team_gaming_m + team_gaming_s +
+                   team_anger_m + team_anger_s +
+                   team_anxiety_m + team_anxiety_s + 
+                   team_sbsod_m + team_sbsod_s,
+           data = aggdf))
+```
+
+# Hypothesis 3
+
+```{r}
+summary(lm(effort ~ team_knowledge_m + team_knowledge_s + 
+                   team_marking_m + team_marking_s + team_walking_m + team_walking_s +
+                   team_gaming_m + team_gaming_s +
+                   team_anger_m + team_anger_s +
+                   team_anxiety_m + team_anxiety_s + 
+                   team_sbsod_m + team_sbsod_s,
+           data = aggdf))
+
+summary(lm(skill ~ team_knowledge_m + team_knowledge_s + 
+                   team_marking_m + team_marking_s + team_walking_m + team_walking_s +
+                   team_gaming_m + team_gaming_s +
+                   team_anger_m + team_anger_s +
+                   team_anxiety_m + team_anxiety_s + 
+                   team_sbsod_m + team_sbsod_s,
+           data = aggdf))
+
+summary(lm(strategy ~ team_knowledge_m + team_knowledge_s + 
+                   team_marking_m + team_marking_s + team_walking_m + team_walking_s +
+                   team_gaming_m + team_gaming_s +
+                   team_anger_m + team_anger_s +
+                   team_anxiety_m + team_anxiety_s + 
+                   team_sbsod_m + team_sbsod_s,
+           data = aggdf))
+
+```
+
+# Hypothesis 4
+
+```{r}
+summary(lm(effort ~ team_knowledge_m + team_knowledge_s + 
+                   team_marking_m + team_marking_s + team_walking_m + team_walking_s +
+                   team_gaming_m + team_gaming_s +
+                   team_anger_m + team_anger_s +
+                   team_anxiety_m + team_anxiety_s + 
+                   team_sbsod_m + team_sbsod_s,
+           data = aggdf))
+
+summary(lm(skill ~ team_knowledge_m + team_knowledge_s + 
+                   team_marking_m + team_marking_s + team_walking_m + team_walking_s +
+                   team_gaming_m + team_gaming_s +
+                   team_anger_m + team_anger_s +
+                   team_anxiety_m + team_anxiety_s + 
+                   team_sbsod_m + team_sbsod_s,
+           data = aggdf))
+
+summary(lm(strategy ~ team_knowledge_m + team_knowledge_s + 
+                   team_marking_m + team_marking_s + team_walking_m + team_walking_s +
+                   team_gaming_m + team_gaming_s +
+                   team_anger_m + team_anger_s +
+                   team_anxiety_m + team_anxiety_s + 
+                   team_sbsod_m + team_sbsod_s,
+           data = aggdf))
+```
+
+# Hypothesis 5
+
+```{r}
+summary(lm(effort ~ team_knowledge_m + team_knowledge_s + 
+                   team_marking_m + team_marking_s + team_walking_m + team_walking_s +
+                   team_gaming_m + team_gaming_s +
+                   team_anger_m + team_anger_s +
+                   team_anxiety_m + team_anxiety_s + 
+                   team_sbsod_m + team_sbsod_s,
+           data = aggdf))
+
+summary(lm(skill ~ team_knowledge_m + team_knowledge_s + 
+                   team_marking_m + team_marking_s + team_walking_m + team_walking_s +
+                   team_gaming_m + team_gaming_s +
+                   team_anger_m + team_anger_s +
+                   team_anxiety_m + team_anxiety_s + 
+                   team_sbsod_m + team_sbsod_s,
+           data = aggdf))
+
+summary(lm(strategy ~ team_knowledge_m + team_knowledge_s + 
+                   team_marking_m + team_marking_s + team_walking_m + team_walking_s +
+                   team_gaming_m + team_gaming_s +
+                   team_anger_m + team_anger_s +
+                   team_anxiety_m + team_anxiety_s + 
+                   team_sbsod_m + team_sbsod_s,
+           data = aggdf))
+```
+
+# Hypothesis 6
+
+```{r}
+summary(lm(score ~ effort + strategy + skill,
+           data = aggdf))
+```
+
+# Hypothesis 7
+
+```{r}
+summary(lm(score ~ team_idle + team_fdelay + team_active,
+           data = aggdf))
+```
+
+
+# Hypothesis 8
+
+```{r}
+summary(lm(score ~ communication,
+           data = aggdf))
+summary(lm(score ~ communication_equity,
+           data = aggdf))
+summary(lm(critical_victims ~ communication,
+           data = aggdf))
+summary(lm(critical_victims ~ communication_equity,
+           data = aggdf))
+```
+
